@@ -1,0 +1,34 @@
+_repo: Southern-Literature-From-1579-1895for-the-use-of-schools-and-the-general-reader_27279
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Manly, Louise
+    birthdate: 1857
+    deathdate: 1936
+    gutenberg_agent_id: '32590'
+    url: http://www.gutenberg.org/2009/agents/32590
+description: ''
+gutenberg_issued: '2008-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Intellectual life'
+- !lcsh 'American literature -- Southern states -- History and criticism'
+- !lcsh 'Southern States -- Literary collections'
+- !lcc 'PS'
+- !lcsh 'Southern States -- In literature'
+- !lcsh 'American literature -- Southern States'
+title: 'Southern Literature From 1579-1895
+
+  A comprehensive review, with copious extracts and criticisms
+
+  for the use of schools and the general reader'
+url: http://www.gutenberg.org/ebooks/27279
